@@ -1,6 +1,8 @@
 from random import randrange as rnd
 from time import sleep
 
+
+#ADD NEW CODE HERE
 screen = [0] * 10
 coords = [0, 0]
 
