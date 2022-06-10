@@ -3,6 +3,7 @@ from time import sleep
 
 
 #ADD NEW CODE HERE
+#TEST THE BRANCHES
 screen = [0] * 10
 coords = [0, 0]
 
